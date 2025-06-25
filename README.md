@@ -1,4 +1,4 @@
-# Brute-Force-Method-Planning-Automobile-Production
+# Brute-Force-Method-Planning-Furniture-Production
 
 This project presents a hands-on implementation of a **brute-force search algorithm in Python** to solve a classical **production planning optimization problem**. Inspired by real-world manufacturing challenges, the model evaluates all feasible combinations to determine the optimal product mix, subject to delivery deadlines and capacity constraints across fabrication, assembly, and shipping departments.
 
